@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### Currently focused on the following technologies...
+<a href="https://nodejs.org" title="Node.js" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-plain.svg" width="40" height="40"></a>
+<a href="https://vuejs.org" title="Vue" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vuejs/vuejs-original.svg" width="40" height="40"></a>
+<a href="https://sass-lang.com" title="SASS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/sass/sass-original.svg" width="40" height="40"></a>
+<a href="https://stylus-lang.com" title="Stylus" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/stylus/stylus-original.svg" width="40" height="40"></a>
+<a href="https://html.spec.whatwg.org" title="HTML5" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-plain.svg" width="40" height="40"></a>
+<a href="https://www.w3.org/Style/CSS" title="CSS3" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-plain.svg" width="40" height="40"></a>
+<a href="https://www.mongodb.com" title="MongoDB" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mongodb/mongodb-original.svg" width="40" height="40"></a>
+<a href="https://aws.amazon.com" title="AWS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"></a>
+<a href="https://daringfireball.net/projects/markdown" title="Markdown" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/markdown/markdown-original.svg" width="40" height="40"></a>
